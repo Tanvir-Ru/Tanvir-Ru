@@ -15,7 +15,7 @@ API Testing: Postman, RestAssured
 Databases: SQL, MongoDB
 Product & Project management Trello, YouTrack
 
-####Testing Expertise:
+Testing Expertise:
 Functional Testing
 Automation Testing
 Performance Testing
