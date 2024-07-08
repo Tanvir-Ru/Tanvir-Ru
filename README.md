@@ -1,5 +1,3 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanvir-Ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
-
 ### Hi there 👋, I am Tanvir Hossain
 #### 🎯 QA Engineer | Automation Specialist | Quality Advocate | Security Enthusiast | Problem Solver
 ![🎯 QA Engineer | Automation Specialist | Quality Advocate | Security Enthusiast | Problem Solver](https://media.licdn.com/dms/image/D5616AQFkWGNHT4nXSQ/profile-displaybackgroundimage-shrink_350_1400/0/1680856853351?e=1726099200&v=beta&t=va-XcnluvYZ0Ny1kP5qU8B0KQ2pZssQAQ_vGJbN_cxE)
@@ -17,7 +15,7 @@ API Testing: Postman, RestAssured
 Databases: SQL, MongoDB
 Product & Project management Trello, YouTrack
 
-Testing Expertise:
+####Testing Expertise:
 Functional Testing
 Automation Testing
 Performance Testing
@@ -59,7 +57,7 @@ Skills:  Java | Python | Selenium WebDriver | Appium | JUnit | TestNG | Postman 
 
 
 
-(https://www.linkedin.com/in/https://www.linkedin.com/in/iamtanvircse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](Iamtanvir.cse@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tanvir-Ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iamtanvircse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](Iamtanvir.cse@gmail.com)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
