@@ -21,11 +21,3 @@ Hello, I am Tanvir Hossain! 👋<br>🎯 QA Engineer | Automation Specialist | Q
 
 Skills:  Java | Python | Selenium WebDriver | Appium | JUnit | TestNG | Postman | Burpsuite
 
-
-
-
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanvir-Ru&show_icons=true)  
-
