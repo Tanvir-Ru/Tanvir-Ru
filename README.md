@@ -19,7 +19,7 @@
 
 I'm a **results-driven Senior QA Engineer** with **6+ years of experience** leading end-to-end quality assurance for complex **FinTech**, **SaaS**, **Healthcare**, and **E-Commerce** products.
 
-I specialise in building robust testing strategies that integrate **automation**, **performance**, and **security testing** — ensuring the delivery of high-quality, resilient, and user-friendly software at every release.
+I specialise in building robust testing strategies that integrate **automation**, **performance**, and **security testing** ensuring the delivery of high-quality, resilient, and user-friendly software at every release.
 
 - 🏦 Currently owning QA for **15+ FinTech & PropTech apps** at **Universal Technologies** (offshore, remote)
 - 🤖 Built Playwright automation suites that **reduced manual regression time by 30%**
@@ -73,13 +73,13 @@ I specialise in building robust testing strategies that integrate **automation**
 |---|---|
 | **Test Strategy & Leadership** | End-to-end QA lifecycle ownership, release quality gates, weekly QA syncs, sprint ceremonies |
 | **Test Automation** | Web (Selenium, Playwright, Cypress), Mobile (Appium), API (Postman, Rest Assured) |
-| **Performance Engineering** | Load & stress testing with JMeter — identified bottlenecks across 15+ microservices |
+| **Performance Engineering** | Load & stress testing with JMeter identified bottlenecks across 15+ microservices |
 | **Security Testing** | Weekly pen testing & vulnerability assessments with Burp Suite & OWASP Top 10 |
-| **Mobile Testing** | iOS (App Store) & Android (Google Play) — real devices, emulators, LambdaTest cloud |
+| **Mobile Testing** | iOS (App Store) & Android (Google Play) real devices, emulators, LambdaTest cloud |
 | **API & Microservices** | REST API validation, payload inspection, auth & error-handling across 15+ services |
 | **FinTech QA** | Mortgage engines, payment gateways, compliance workflows, ERP banking portals |
 | **ISO & Compliance** | Test protocols, audit-ready reporting, risk-based test documentation |
-| **Cross-Browser Testing** | Chrome, Firefox, Edge, Safari — manual & automated via LambdaTest parallel grid |
+| **Cross-Browser Testing** | Chrome, Firefox, Edge, Safari manual & automated via LambdaTest parallel grid |
 | **Shift-Left Practices** | AC reviews pre-development, risk identification in sprint planning, defect prevention |
 | **Testing Types** | Functional · Regression · Integration · UAT · Security · Performance · Localization |
 | **Methodologies** | Agile (Scrum/Kanban) · SDLC/STLC · Shift-Left · Risk-Based · CI/CD |
@@ -91,16 +91,16 @@ I specialise in building robust testing strategies that integrate **automation**
 ### 🏢 Senior Software Quality Assurance Engineer — *Universal Technologies* (Offshore · Remote)
 **November 2023 – Present**
 
-- Led QA ownership for **15+ FinTech and PropTech applications** (Finance Magic, Mortgage Magic, Universal Asset Management, Universal Venture Capital) — ensuring high availability and data integrity
+- Led QA ownership for **15+ FinTech and PropTech applications** (Finance Magic, Mortgage Magic, Universal Asset Management, Universal Venture Capital) ensuring high availability and data integrity
 - Built and maintained **Playwright (TypeScript) automated regression suites**, reducing manual execution time by **30%**
 - Architected end-to-end testing for mortgage calculation engines, secure payment gateways, and compliance document management systems
 - Designed JMeter performance strategies to identify API bottlenecks and ensure system stability under peak load
-- Led API testing across **15+ microservices** — validating payloads, auth, and error handling with Postman and Rest Assured
+- Led API testing across **15+ microservices** validating payloads, auth, and error handling with Postman and Rest Assured
 - Performed **weekly penetration testing** and vulnerability assessments using Burp Suite, proactively mitigating security risks
 - Contributed to **ISO compliance** via test protocols and audit-ready documentation
 - Managed release validation across **5+ staging environments**, ensuring code stability before every production deploy
 - Validated acceptance criteria pre-implementation and post-development, providing clear go/no-go quality gates
-- Participated in all Agile ceremonies — delivering risk assessments, quality estimates, and continuous improvement feedback
+- Participated in all Agile ceremonies delivering risk assessments, quality estimates, and continuous improvement feedback
 
 ---
 
@@ -108,8 +108,8 @@ I specialise in building robust testing strategies that integrate **automation**
 **October 2022 – October 2023**
 
 - Designed and maintained a test automation framework (Katalon Studio) covering UI, API, and regression testing
-- Performed API testing for healthcare applications using Katalon and Postman — validating auth, data integrity, and response structures
-- Executed JMeter performance testing for critical workflows (appointments, video consultations) — identified bottlenecks and confirmed stability
+- Performed API testing for healthcare applications using Katalon and Postman validating auth, data integrity, and response structures
+- Executed JMeter performance testing for critical workflows (appointments, video consultations) identified bottlenecks and confirmed stability
 - Pioneered a structured defect-tracking system, achieving a **90% defect-resolution rate** and improving release predictability
 - Championed shift-left quality by collaborating in the design phase, reducing post-development defects by an estimated **30%**
 - Designed **Appium regression scripts** for Android/iOS, cutting mobile testing cycles from **2 days → 4 hours** per release
@@ -122,7 +122,7 @@ I specialise in building robust testing strategies that integrate **automation**
 
 - Automated **40% of regression suites** using Selenium WebDriver and WebDriverIO, accelerating release readiness
 - Authored and maintained **200+ reusable test cases** in Jira/TestRail with full traceability to business requirements
-- Acted as quality owner for high-priority modules — **95% of critical issues** resolved before release
+- Acted as quality owner for high-priority modules **95% of critical issues** resolved before release
 - Led cross-browser and cross-device testing (iPad, iPhone, Android, Tablet) for web and mobile applications
 - Managed PR-wise and release-wise testing cycles, contributing to stable production releases with minimal rollbacks
 
