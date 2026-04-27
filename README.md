@@ -169,5 +169,5 @@ I'm always open to discussing QA roles, freelance projects, or just chatting abo
 ---
 
 <p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
+  <i>"Quality is never an accident, it is always the result of intelligent effort." — John Ruskin</i>
 </p>
