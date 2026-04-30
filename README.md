@@ -3,7 +3,7 @@
 <h3 align="center">Senior QA Engineer &nbsp;·&nbsp; SDET &nbsp;·&nbsp; Automation Specialist &nbsp;·&nbsp; Security & Performance Testing</h3>
 
 <p align="center">
-  <em>6+ years delivering quality across FinTech, SaaS, Healthcare & E-Commerce — from test strategy to ship.</em>
+  <em>6+ years delivering quality across FinTech, SaaS, Healthcare & E-Commerce from test strategy to ship.</em>
 </p>
 
 <p align="center">
