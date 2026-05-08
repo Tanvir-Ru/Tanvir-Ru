@@ -21,7 +21,7 @@ I'm a **results-driven Senior QA Engineer** with **6+ years of experience** lead
 
 I specialise in building robust testing strategies that integrate **automation**, **performance**, and **security testing** ensuring the delivery of high-quality, resilient, and user-friendly software at every release.
 
-- 🏦 Currently owning QA for **15+ FinTech & PropTech apps** at **Universal Technologies** (offshore, remote)
+- 🏦 Currently owning QA for **15+ FinTech & PropTech apps** at **Universal Technologies** (remote)
 - 🤖 Built Playwright automation suites that **reduced manual regression time by 30%**
 - 🛡️ Conduct **weekly penetration testing & vulnerability assessments** using Burp Suite & OWASP
 - 📱 Managed full **iOS (App Store) & Android (Google Play)** release cycles
@@ -91,7 +91,7 @@ I specialise in building robust testing strategies that integrate **automation**
 ### 🏢 Senior Software Quality Assurance Engineer — *Universal Technologies* (Offshore · Remote)
 **November 2023 – Present**
 
-- Led QA ownership for **15+ FinTech and PropTech applications** (Finance Magic, Mortgage Magic, Universal Asset Management, Universal Venture Capital) ensuring high availability and data integrity
+- Led QA ownership for **Multiple FinTech and PropTech applications** (Finance Magic, Mortgage Magic, Universal Asset Management, Universal Venture Capital) ensuring high availability and data integrity
 - Built and maintained **Playwright (TypeScript) automated regression suites**, reducing manual execution time by **30%**
 - Architected end-to-end testing for mortgage calculation engines, secure payment gateways, and compliance document management systems
 - Designed JMeter performance strategies to identify API bottlenecks and ensure system stability under peak load
